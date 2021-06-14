@@ -14,7 +14,7 @@ Este projeto se destina a ter um glossário das principais palavras para auxilia
 
 ### [Ansible](https://docs.ansible.com/)
 
-Ansible é uma ferramenta de automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
+Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
 
 ## B
 
