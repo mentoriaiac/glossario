@@ -1,10 +1,10 @@
-# Glossario da mentoriaIaC de A a Z
+# Glossário da MentoriaIaC de A a Z
 
-Este projeto se destina a ter um glossario das principais palavras para auxiliar os participantes da MentoriaIaC.
+Este projeto se destina a ter um glossário das principais palavras para auxiliar os participantes da Mentoria IaC.
 
-* O termos estão em ordem alfabetica sendo eles em Português, Inglês ou Aportuguesados
+* O termos estão em ordem alfabética sendo eles em Português, Inglês ou Aportuguesados
 * O significado do termo está em Português
-* Cada termo terá um link de referencia e se for contundente terá um artigo sobre no blog da MentoriaIaC que será linkado também no verbete
+* Cada termo terá um link de referencia e se for contundente terá um artigo sobre no blog da Mentoria IaC que será linkado também no verbete
 
 ## Escolha a letra do Alfabeto
 
@@ -20,6 +20,10 @@ Ansible é uma ferramenta de automação de TI que automatiza o provisionamento 
 
 ## C
 
+### [Código Aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)
+
+Código Aberto é um termo que se refere a um software cujo código está disponível para download por qualquer pessoa e a uma filosofia de criação de aplicativos voltada para a colaboração entre desenvolvedores.
+
 ## D
 
 ## E
@@ -30,7 +34,7 @@ Ansible é uma ferramenta de automação de TI que automatiza o provisionamento 
 
 ### [GCP](https://cloud.google.com/docs?hl=pt-br)
 
-GCP é o acronimo para Google Cloud Platform, é o provedor de Infraestrutura da Google
+GCP é o acrônimo para Google Cloud Platform, é o provedor de Infraestrutura da Google
 
 ## H
 
@@ -38,7 +42,7 @@ GCP é o acronimo para Google Cloud Platform, é o provedor de Infraestrutura da
 
 ### [IaC](https://pt.wikipedia.org/wiki/Infraestrutura_como_C%C3%B3digo)
 
-IaC, Infraestrutura como Codigo ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionaveis e auditaveis.
+IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionaveis e auditaveis.
 
 ## J
 
@@ -50,14 +54,13 @@ IaC, Infraestrutura como Codigo ou em inglês Infrastructure as Code, é o geren
 
 ## N
 
-
 ## O
 
 ## P
 
 ### [Packer](https://www.packer.io/docs)
 
-Packer é uma ferramenta de **Codigo Aberto** utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a [Infraestrutura Imutavel](###Infraestrutura-Imutavel)
+Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a [Infraestrutura Imutavel](###Infraestrutura-Imutavel)
 
 ## Q
 
@@ -69,7 +72,7 @@ Packer é uma ferramenta de **Codigo Aberto** utilizada para construir imagens n
 
 ### [Terraform](https://www.terraform.io/intro/index.html)
 
-Terraform é uma ferramenta de **Codigo Aberto** utilizada para construir, modificar e versionar infraestrutura de forma segura e eficiente. Ela é uma das referencias para a Infraestrutura como Codigo ou [IaC](###IaC)
+Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir, modificar e versionar infraestrutura de forma segura e eficiente. Ela é uma das referencias para a Infraestrutura como Código ou [IaC](###IaC)
 
 ## U
 
@@ -86,6 +89,6 @@ Terraform é uma ferramenta de **Codigo Aberto** utilizada para construir, modif
 * Fork o projeto
 * Clone o fork projeto no seu usuário
 * Crie uma branch para realizar a modificação
-* Adicione o termo sugerido em ordem alfabetica
+* Adicione o termo sugerido em ordem alfabética
 * Suba as modificações com `git push`
-* E crie um PR para o repositório [github.com/mentoriaiac/glossario.git](https://github.com/mentoriaiac/glossario.git)
+* E crie um PR para o repositório [github.com/mentoriaiac/glossário.git](https://github.com/mentoriaiac/glossário.git)
