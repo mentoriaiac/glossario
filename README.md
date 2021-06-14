@@ -58,7 +58,7 @@ IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gere
 
 ### [Kubernetes](https://kubernetes.io/docs/home/)
 
-Kubernetes é um motor open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações coneinerizadas.
+Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações coneinerizadas.
 
 ## L
 
