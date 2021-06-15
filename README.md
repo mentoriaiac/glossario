@@ -16,11 +16,11 @@ Este projeto se destina a ter um glossário das principais palavras para auxilia
 
 Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
 
-### [AWS](https://aws.amazon.com/)
+### [AWS](https://aws.amazon.com/pt/)
 
 AWS é o acrônimo para Amazon Web Services, é o provedor de serviços na nuvem da Amazon
 
-### [Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
+### [Azure](https://docs.microsoft.com/pt-br/azure/?product=featured)
 
 Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
@@ -56,9 +56,9 @@ IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gere
 
 ## K
 
-### [Kubernetes](https://kubernetes.io/docs/home/)
+### [Kubernetes](https://kubernetes.io/pt-br/docs/home/)
 
-Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações coneinerizadas.
+Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações conteinerizadas.
 
 ## L
 
