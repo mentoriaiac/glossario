@@ -2,9 +2,9 @@
 
 Este projeto se destina a ter um glossário das principais palavras para auxiliar os participantes da Mentoria IaC.
 
-* O termos estão em ordem alfabética sendo eles em Português, Inglês ou Aportuguesados
-* O significado do termo está em Português
-* Cada termo terá um link de referencia e se for contundente terá um artigo sobre no blog da Mentoria IaC que será linkado também no verbete
+- O termos estão em ordem alfabética sendo eles em Português, Inglês ou Aportuguesados
+- O significado do termo está em Português
+- Cada termo terá um link de referencia e se for contundente terá um artigo sobre no blog da Mentoria IaC que será linkado também no verbete
 
 ## Escolha a letra do Alfabeto
 
@@ -15,6 +15,14 @@ Este projeto se destina a ter um glossário das principais palavras para auxilia
 ### [Ansible](https://docs.ansible.com/)
 
 Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
+
+### [AWS](https://aws.amazon.com/pt/)
+
+AWS é o acrônimo para Amazon Web Services, é o provedor de serviços na nuvem da Amazon
+
+### [Azure](https://docs.microsoft.com/pt-br/azure/?product=featured)
+
+Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
 ## B
 
@@ -47,6 +55,10 @@ IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gere
 ## J
 
 ## K
+
+### [Kubernetes](https://kubernetes.io/pt-br/docs/home/)
+
+Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações conteinerizadas.
 
 ## L
 
@@ -86,9 +98,9 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 
 ## Como contribuir
 
-* Fork o projeto
-* Clone o fork projeto no seu usuário
-* Crie uma branch para realizar a modificação
-* Adicione o termo sugerido em ordem alfabética
-* Suba as modificações com `git push`
-* E crie um PR para o repositório [github.com/mentoriaiac/glossário.git](https://github.com/mentoriaiac/glossário.git)
+- Fork o projeto
+- Clone o fork projeto no seu usuário
+- Crie uma branch para realizar a modificação
+- Adicione o termo sugerido em ordem alfabética
+- Suba as modificações com `git push`
+- E crie um PR para o repositório [github.com/mentoriaiac/glossário.git](https://github.com/mentoriaiac/glossário.git)
