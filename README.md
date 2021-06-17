@@ -50,7 +50,7 @@ GCP é o acrônimo para Google Cloud Platform, é o provedor de Infraestrutura d
 
 ### [IaC](https://pt.wikipedia.org/wiki/Infraestrutura_como_C%C3%B3digo)
 
-IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionaveis e auditaveis.
+IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionáveis e auditáveis.
 
 ## J
 
@@ -61,6 +61,10 @@ IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gere
 Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações conteinerizadas.
 
 ## L
+
+### [LGTM](https://www.abbreviationfinder.org/pt/acronyms/lgtm_looks-good-to-me.html)
+
+LGTM é o acrônimo para "*Looks good to me*" (em tradução livre: *está bom para mim*), é utilizado na revisão de código para informar que o que foi proposto está correto para quem está revisando.
 
 ## M
 
