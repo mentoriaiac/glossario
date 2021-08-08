@@ -28,6 +28,14 @@ Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
 ## C
 
+### [Containerd](https://containerd.io/)
+
+Containerd é um ambiente de execução de containers disponível como um daemon em ambientes Linux e Windows. É responsável por gerenciar todo o ciclo de vida de containers em seu host incluindo: armazenamento e transferência de imagens, execução e supervisão de containers, armazenamento de dados em baixo nível, etc.
+
+### [cri-o](https://cri-o.io/)
+
+cri-o é um ambiente de execução de containers usando os padrões da [OCI](###OCI). É uma alternativa de implementação de interface de execução de containers para o [Kubernetes](###Kubernetes). 
+
 ### [Código Aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)
 
 Código Aberto é um termo que se refere a um software cujo código está disponível para download por qualquer pessoa e a uma filosofia de criação de aplicativos voltada para a colaboração entre desenvolvedores.
@@ -45,6 +53,10 @@ Código Aberto é um termo que se refere a um software cujo código está dispon
 GCP é o acrônimo para Google Cloud Platform, é o provedor de Infraestrutura da Google
 
 ## H
+
+### [Helm](https://helm.sh/)
+
+Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distribuição de aplicações conteinerizadas voltadas para o [Kubernetes](###Kubernetes). O Helm é responsável por empacotar os recursos e manifestos do Kubernetes na forma de um Chart, controlando versões de recursos e simplificando a aplicação destes em clusteres Kubernetes.
 
 ## I
 
@@ -71,6 +83,10 @@ LGTM é o acrônimo para "*Looks good to me*" (em tradução livre: *está bom p
 ## N
 
 ## O
+
+### [OCI](https://opencontainers.org/)
+
+OCI é o acrônimo para Open Container Initiave. É uma estrutura de governança aberta que visa a criação de padrões a serem adotados na indústria de containers, tanto relativo a formato, quanto a execução de containers.
 
 ## P
 
