@@ -1,4 +1,4 @@
-# Glossário da MentoriaIaC de A a Z
+# Glossário da Mentoria IaC de A a Z
 
 Este projeto se destina a ter um glossário das principais palavras para auxiliar os participantes da Mentoria IaC.
 
