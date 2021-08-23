@@ -51,7 +51,7 @@ Código Aberto é um termo que se refere a um software cujo código está dispon
 
 ## D
 
-###[Deploy](https://www.youtube.com/watch?v=gJw7l2JKpuQ)
+### [Deploy](https://www.youtube.com/watch?v=gJw7l2JKpuQ)
 
 No contexto de desenvolvimento de software, significa implantar, colocar em posição ou disponibilizar para uso. O deploy pode ser manual, parcialmente automatizado ou completamente automatizado, sendo este diretamente relacionado ao conceito de Integração Contínua (CI).
 
