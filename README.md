@@ -28,9 +28,18 @@ Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
 ## C
 
+### [Container](https://computerworld.com.br/plataformas/na-era-da-conteinerizacao-afinal-alguem-sabe-o-que-e-container/)
+
+Metodologia utilizada para empacotar aplicações para que possam ser executadas/disponibilizadas com o seu subconjunto de dependências de maneira isolada e eficiente no intuito de segregar e facilitar a portabilidade dessas aplicações.
+
 ### [Containerd](https://containerd.io/)
 
 Containerd é um ambiente de execução de containers disponível como um daemon em ambientes Linux e Windows. É responsável por gerenciar todo o ciclo de vida de containers em seu host incluindo: armazenamento e transferência de imagens, execução e supervisão de containers, armazenamento de dados em baixo nível, etc.
+
+### [Copy-on-Write](https://pt.wikipedia.org/wiki/C%C3%B3pia_em_grava%C3%A7%C3%A3o)
+
+Copy-on-Write ou Cópia em gravação é uma técnica de gestão de recursos usada na programação de computadores para implementar eficientemente uma operação "duplicar" ou "copiar" em recursos modificáveis.
+
 
 ### [cri-o](https://cri-o.io/)
 
@@ -41,6 +50,10 @@ cri-o é um ambiente de execução de containers usando os padrões da [OCI](###
 Código Aberto é um termo que se refere a um software cujo código está disponível para download por qualquer pessoa e a uma filosofia de criação de aplicativos voltada para a colaboração entre desenvolvedores.
 
 ## D
+
+###[Deploy](https://www.youtube.com/watch?v=gJw7l2JKpuQ)
+
+No contexto de desenvolvimento de software, significa implantar, colocar em posição ou disponibilizar para uso. O deploy pode ser manual, parcialmente automatizado ou completamente automatizado, sendo este diretamente relacionado ao conceito de Integração Contínua (CI).
 
 ## E
 
@@ -109,6 +122,10 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 ## U
 
 ## V
+
+### [Volume](https://www.youtube.com/watch?v=htqWxw8VTb4)
+
+Volume é uma forma de colocar um filesystem dentro do container. Ele está montado no container, mas não faz parte do container, ficando armazenados dentro do host Docker.
 
 ## X
 
