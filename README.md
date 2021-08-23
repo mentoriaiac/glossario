@@ -98,6 +98,9 @@ Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para c
 
 ## R
 
+### [RKE](https://rancher.com/docs/rke/latest/en/)
+
+RKE é o engine de criação de cluster k8s da [rancher](https://rancher.com/)
 ## S
 
 ## T
