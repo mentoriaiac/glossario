@@ -98,6 +98,10 @@ Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para c
 
 ## R
 
+### [RKE](https://rancher.com/docs/rke/latest/en/)
+
+RKE é uma distribuição Kubernetes (binário) com certificação CNCF que resolve complexidades de instalação comuns do Kubernetes, removendo a maioria das dependências de host, apresentando um caminho estável para implantação, atualizações e reversões.
+Ele seria algo semelhante ao [KOPS](https://kops.sigs.k8s.io/)
 ## S
 
 ## T
