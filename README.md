@@ -123,9 +123,9 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 
 ## V
 
-### [Volume](https://www.youtube.com/watch?v=htqWxw8VTb4)
+### [Volume](https://blog.container-solutions.com/understanding-volumes-docker)
 
-Volume é uma forma de colocar um filesystem dentro do container. Ele está montado no container, mas não faz parte do container, ficando armazenados dentro do host Docker.
+Volumes são diretórios (ou arquivos) existentes fora do Union File System (UFS) padrão e existem como diretórios e arquivos normais no sistema de arquivos do hospedeiro (host).
 
 ## X
 
