@@ -64,6 +64,10 @@ Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distrib
 
 IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionáveis e auditáveis.
 
+### [Issue](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue)
+
+Issue é o termo usado pelo github para documentar um problema no repositório em questão. Ao abrir uma issue você está detalhando um problema ou melhoria desejada para aquele repositório de código.
+
 ## J
 
 ## K
