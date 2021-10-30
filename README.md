@@ -1,4 +1,5 @@
-#### Glossário da Mentoria IaC de A a Z
+# Glossário da Mentoria IaC de A a Z
+
 
 Este projeto se destina a ter um glossário das principais palavras para auxiliar os participantes da Mentoria IaC.
 
@@ -42,7 +43,6 @@ você pode procurar box no site do vagrant,segue o [link](https://app.vagrantup.
 
 ## C
 
-
 ### [CI/CD]
 Você já foi em um local pra se alimentar e precisou de alguém para te servir o cardápio por exemplo?
 basicamente CI/CD é um garçom, tecnicamente é um método para entregar aplicações,nesta etapa os métodos são integração,entrega,implantação contínua.
@@ -56,6 +56,11 @@ são ambientes em tempo de execução que disponilizam os arquivos, variaveis,IO
 ### [Containerd](https://containerd.io/)
 
 Containerd é um ambiente de execução de containers disponível como um daemon em ambientes Linux e Windows. É responsável por gerenciar todo o ciclo de vida de containers em seu host incluindo: armazenamento e transferência de imagens, execução e supervisão de containers, armazenamento de dados em baixo nível, etc.
+
+### [Copy-on-Write](https://pt.wikipedia.org/wiki/C%C3%B3pia_em_grava%C3%A7%C3%A3o)
+
+Copy-on-Write ou Cópia em gravação é uma técnica de gestão de recursos usada na programação de computadores para implementar eficientemente uma operação "duplicar" ou "copiar" em recursos modificáveis.
+
 
 ### [cri-o](https://cri-o.io/)
 
@@ -186,6 +191,10 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 ## U
 
 ## V
+
+### [Volume](https://blog.container-solutions.com/understanding-volumes-docker)
+
+Volumes são diretórios (ou arquivos) existentes fora do Union File System (UFS) padrão e existem como diretórios e arquivos normais no sistema de arquivos do hospedeiro (host).
 
 ## X
 
