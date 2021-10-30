@@ -51,6 +51,11 @@ Código Aberto é um termo que se refere a um software cujo código está dispon
 
 ## D
 
+
+### [DigitalOcean](https://www.digitalocean.com/)
+
+DigitalOcean, ou apenas DO, é o provedor de serviços na nuvem da DigitalOcean. A DO é um provedor americano de infraestrutura em nuvem com sede na cidade de Nova York e centros de dados espalhados pelo  mundo.
+
 ### [Deploy](https://www.youtube.com/watch?v=gJw7l2JKpuQ)
 
 No contexto de desenvolvimento de software, significa implantar, colocar em posição ou disponibilizar para uso. O deploy pode ser manual, parcialmente automatizado ou completamente automatizado, sendo este diretamente relacionado ao conceito de Integração Contínua (CI).
@@ -60,6 +65,18 @@ No contexto de desenvolvimento de software, significa implantar, colocar em posi
 ## F
 
 ## G
+
+[Git](https://git-scm.com/)
+
+Git é um sistema de controle de versão distribuído de código aberto e gratuito, projetado para lidar com tudo, de projetos pequenos a grandes. O que isso significa? Significa que com o Git é possível manter um histórico das alterações dos seus arquivos, sabendo quem, por que e quando um arquivo foi editado.
+
+[GitHub](https://github.com/)
+
+GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos.
+
+[GitLab](https://gitlab.com)
+
+Similarmente ao GitHub, o GitLab é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos. 
 
 ### [GCP](https://cloud.google.com/docs?hl=pt-br)
 
