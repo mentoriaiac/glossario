@@ -122,7 +122,7 @@ Issue é o termo usado pelo github para documentar um problema no repositório e
 
 ## K
 
-### [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)
+### [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
 
 Kanban é um método enxuto para gerenciar e melhorar o trabalho em sistemas humanos. Essa abordagem visa gerenciar o trabalho equilibrando as demandas com a capacidade disponível e melhorando o tratamento de gargalos no nível do sistema.
 
