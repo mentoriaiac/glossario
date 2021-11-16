@@ -36,13 +36,21 @@ Um serviço de armazenamento em bloco ou block storage funciona como um disco r�
 
 ## C
 
-### [CI/CD](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
+### [CI/CD](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
 
-A integração contínua (CI) concentra-se na integração do trabalho de desenvolvedores individuais em um repositório principal várias vezes ao dia para detectar erros de integração antecipadamente e acelerar o desenvolvimento colaborativo. A entrega contínua (CD) se preocupa em reduzir o atrito no processo de implantação ou liberação, automatizando as etapas necessárias para implantar uma compilação de forma que o código possa ser liberado com segurança a qualquer momento.
+CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. 
+
+### [CI](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+CI (continuous integration) sempre se refere à integração contínua, que é um processo de automação para desenvolvedores. Uma CI bem-sucedida é quando novas mudanças no código de uma aplicação são desenvolvidas, testadas e consolidadas regularmente em um repositório compartilhado. É a solução ideal para evitar conflitos entre ramificações quando muitas aplicações são desenvolvidas ao mesmo tempo.
+
+### [CD](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+CD (continuous delivery) ou entrega contínua, geralmente representa as mudanças feitas pelo desenvolvedor em uma aplicação, que são automaticamente testadas contra bugs e carregadas em um repositório, como o GitHub, ou em um registro de container. Nesse repositório, a equipe de operações pode implantar essas mudanças em um ambiente de produção ativo. Isso resolve o problema de baixa visibilidade e comunicação entre as equipes de negócios e desenvolvimento. Para isso, a finalidade da entrega contínua é garantir o mínimo de esforço na implantação de novos códigos.
 
 ### [Consul](https://www.consul.io/)
 
-Consul é uma solução de service mesh (malha de serviço) que fornece um plano de controle completo com descoberta de serviço, configuração e funcionalidade de segmentação. Cada um desses recursos pode ser usado individualmente conforme necessário ou em conjunto para construir uma malha de serviço completo. O Consul requer um plano de dados e suporta um proxy e um modelo de integração nativo. Ele é fornecido com um proxy integrado simples para que tudo funcione imediatamente, mas também oferece suporte a integrações de proxy de terceiros, como o Envoy.
+Consul é uma solução de service mesh (malha de serviço) que fornece um plano de controle completo com descoberta de serviço, configuração e funcionalidade de segmentação. Cada um desses recursos pode ser usado individualmente conforme necessário ou em conjunto para construir uma malha de serviço completo. O Consul requer um *data plane* (uma camada de proxies de serviço que gerencia o tráfego de rede em nível de aplicativo. No caso do Consul, geralmente é usado o Envoy) e suporta um proxy e um modelo de integração nativo. Ele é fornecido com um proxy integrado simples para que tudo funcione imediatamente, mas também oferece suporte a integrações de proxy de terceiros, como o Envoy.
 
 ### [Container](https://computerworld.com.br/plataformas/na-era-da-conteinerizacao-afinal-alguem-sabe-o-que-e-container/)
 
@@ -160,13 +168,15 @@ OCI é o acrônimo para Open Container Initiave. É uma estrutura de governança
 
 Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a [Infraestrutura Imutavel](###Infraestrutura-Imutavel)
 
-### [Pipeline](https://www.atlassian.com/br/continuous-delivery/pipeline)
+### [Pipeline](https://www.redhat.com/pt-br/topics/devops/what-cicd-pipeline)
 
-Pipeline de entrega contínua (CD) é o conjunto de etapas pelo qual as mudanças de código vão passar para chegar até a produção.
+Um pipeline de CI/CD consiste em uma série de etapas a serem realizadas para a disponibilização de uma nova versão de um software. Os pipelines de integração e entrega contínuas (CI/CD) são uma prática que tem como objetivo acelerar a disponibilização de softwares, adotando a abordagem de DevOps ou de engenharia de confiabilidade de sites (SRE).
 
-### [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+O pipeline de CI/CD inclui monitoramento e automação para melhorar o processo de desenvolvimento de aplicações principalmente nos estágios de integração e teste, mas também na entrega e na implantação. É possível executar manualmente cada etapa do pipeline de CI/CD, mas o real valor dele está na automação.
 
-O pull request permite que você informe aos outros sobre as mudanças que você enviou para uma branch em um repositório no GitHub. Uma vez que um pull request é aberto, você pode discutir e revisar as mudanças potenciais com os colaboradores e adicionar commits de acompanhamento antes que suas mudanças sejam mescladas na branch base.
+### [Pull Request](https://docs.github.com/pt/get-started/quickstart/github-glossary#pull-request)
+
+Pull requests são alterações propostas em um repositório enviadas por um usuário e que são aceitas ou rejeitadas pelos colaboradores do repositório. Assim como os problemas, as pull requests têm um fórum próprio de discussão.
 
 ## Q
 
