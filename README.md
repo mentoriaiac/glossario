@@ -16,6 +16,10 @@ Este projeto se destina a ter um glossário das principais palavras para auxilia
 
 Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
 
+### [API](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
+
+Uma interface de programação de aplicativo (API) é um conjunto de rotinas, definições e protocolos que permitem aos desenvolvedores construir softwares aplicativos. As APIs abstraem a implementação e expõem apenas os objetos e ações necessários ao desenvolvedor. Na computação em nuvem, os desenvolvedores usam APIs para gerenciar servidores e outros recursos por meio de solicitações HTTP convencionais. 
+
 ### [AWS](https://aws.amazon.com/pt/)
 
 AWS é o acrônimo para Amazon Web Services, é o provedor de serviços na nuvem da Amazon
@@ -26,7 +30,27 @@ Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
 ## B
 
+### [Block Storage](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
+
+Um serviço de armazenamento em bloco ou block storage funciona como um disco rígido fornecido pela rede. Os desenvolvedores podem usar serviços de armazenamento em bloco para armazenar arquivos, combinar vários dispositivos em uma matriz RAID ou configurar um banco de dados para gravar diretamente no dispositivo. 
+
 ## C
+
+### [CI/CD](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. 
+
+### [CI](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+CI (continuous integration) sempre se refere à integração contínua, que é um processo de automação para desenvolvedores. Uma CI bem-sucedida é quando novas mudanças no código de uma aplicação são desenvolvidas, testadas e consolidadas regularmente em um repositório compartilhado. É a solução ideal para evitar conflitos entre ramificações quando muitas aplicações são desenvolvidas ao mesmo tempo.
+
+### [CD](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+CD (continuous delivery) ou entrega contínua, geralmente representa as mudanças feitas pelo desenvolvedor em uma aplicação, que são automaticamente testadas contra bugs e carregadas em um repositório, como o GitHub, ou em um registro de container. Nesse repositório, a equipe de operações pode implantar essas mudanças em um ambiente de produção ativo. Isso resolve o problema de baixa visibilidade e comunicação entre as equipes de negócios e desenvolvimento. Para isso, a finalidade da entrega contínua é garantir o mínimo de esforço na implantação de novos códigos.
+
+### [Consul](https://www.consul.io/)
+
+Consul é uma solução de service mesh (malha de serviço) que fornece um plano de controle completo com descoberta de serviço, configuração e funcionalidade de segmentação. Cada um desses recursos pode ser usado individualmente conforme necessário ou em conjunto para construir uma malha de serviço completo. O Consul requer um *data plane* (uma camada de proxies de serviço que gerencia o tráfego de rede em nível de aplicativo. No caso do Consul, geralmente é usado o Envoy) e suporta um proxy e um modelo de integração nativo. Ele é fornecido com um proxy integrado simples para que tudo funcione imediatamente, mas também oferece suporte a integrações de proxy de terceiros, como o Envoy.
 
 ### [Container](https://computerworld.com.br/plataformas/na-era-da-conteinerizacao-afinal-alguem-sabe-o-que-e-container/)
 
@@ -66,15 +90,15 @@ No contexto de desenvolvimento de software, significa implantar, colocar em posi
 
 ## G
 
-[Git](https://git-scm.com/)
+### [Git](https://git-scm.com/)
 
 Git é um sistema de controle de versão distribuído de código aberto e gratuito, projetado para lidar com tudo, de projetos pequenos a grandes. O que isso significa? Significa que com o Git é possível manter um histórico das alterações dos seus arquivos, sabendo quem, por que e quando um arquivo foi editado.
 
-[GitHub](https://github.com/)
+### [GitHub](https://github.com/)
 
 GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos.
 
-[GitLab](https://gitlab.com)
+### [GitLab](https://gitlab.com)
 
 Similarmente ao GitHub, o GitLab é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos. 
 
@@ -90,6 +114,10 @@ Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distrib
 
 ## I
 
+### [IaaS](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
+
+Infraestrutura como serviço é uma categoria de computação em nuvem na qual a infraestrutura é fornecida como um produto pela Internet. Os usuários provisionam processamento, armazenamento, rede e outras ferramentas de computação, que podem incluir sistemas operacionais e aplicativos. Embora um usuário IaaS não gerencie a infraestrutura subjacente, ele tem controle sobre os sistemas operacionais, armazenamento, aplicativos implantados e certos componentes de rede (como firewalls).
+
 ### [IaC](https://pt.wikipedia.org/wiki/Infraestrutura_como_C%C3%B3digo)
 
 IaC, Infraestrutura como Código ou em inglês Infrastructure as Code, é o gerenciamento do provisionamento de Infraestrutura utilizando arquivos versionáveis e auditáveis.
@@ -102,11 +130,23 @@ Issue é o termo usado pelo github para documentar um problema no repositório e
 
 ## K
 
+### [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
+
+Kanban é um método enxuto para gerenciar e melhorar o trabalho em sistemas humanos. Essa abordagem visa gerenciar o trabalho equilibrando as demandas com a capacidade disponível e melhorando o tratamento de gargalos no nível do sistema.
+
+Os itens de trabalho são visualizados para dar aos participantes uma visão do progresso e do processo, do início ao fim - geralmente por meio de um quadro Kanban. O trabalho é executado conforme a capacidade permite, ao invés de ser imposto para o processo quando solicitado.
+
+No trabalho com conhecimento e no desenvolvimento de software, o objetivo é fornecer um sistema de gestão visual de processos que auxilie na tomada de decisões sobre o que, quando e quanto produzir.
+
 ### [Kubernetes](https://kubernetes.io/pt-br/docs/home/)
 
 Kubernetes é uma ferramenta open source de orquestração de containers mantido pela Cloud Native Computing Foundation ou [CNCF](https://www.cncf.io/), com a finalidade de automatizar a entrega, escalonamento e manutenção de aplicações conteinerizadas.
 
 ## L
+
+### [Loki](https://grafana.com/oss/loki)
+
+Loki é um sistema de agregação de logs multi-tenant, horizontalmente escalável, altamente disponível e inspirado no Prometheus. Ele é projetado para ser muito econômico e fácil de operar. Ele não indexa o conteúdo dos logs, mas sim um conjunto de rótulos para cada fluxo de log.
 
 ### [LGTM](https://www.abbreviationfinder.org/pt/acronyms/lgtm_looks-good-to-me.html)
 
@@ -128,9 +168,23 @@ OCI é o acrônimo para Open Container Initiave. É uma estrutura de governança
 
 Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a [Infraestrutura Imutavel](###Infraestrutura-Imutavel)
 
+### [Pipeline](https://www.redhat.com/pt-br/topics/devops/what-cicd-pipeline)
+
+Um pipeline de CI/CD consiste em uma série de etapas a serem realizadas para a disponibilização de uma nova versão de um software. Os pipelines de integração e entrega contínuas (CI/CD) são uma prática que tem como objetivo acelerar a disponibilização de softwares, adotando a abordagem de DevOps ou de engenharia de confiabilidade de sites (SRE).
+
+O pipeline de CI/CD inclui monitoramento e automação para melhorar o processo de desenvolvimento de aplicações principalmente nos estágios de integração e teste, mas também na entrega e na implantação. É possível executar manualmente cada etapa do pipeline de CI/CD, mas o real valor dele está na automação.
+
+### [Pull Request](https://docs.github.com/pt/get-started/quickstart/github-glossary#pull-request)
+
+Pull requests são alterações propostas em um repositório enviadas por um usuário e que são aceitas ou rejeitadas pelos colaboradores do repositório. Assim como os problemas, as pull requests têm um fórum próprio de discussão.
+
 ## Q
 
 ## R
+
+### [RPC](https://pt.wikipedia.org/wiki/Chamada_de_procedimento_remoto)
+
+Chamada remota de procedimento (RPC, acrônimo de Remote Procedure Call) é uma tecnologia de comunicação entre processos que permite a um programa de computador chamar um procedimento em outro espaço de endereçamento (geralmente em outro computador, conectado por uma rede). O programador não se preocupa com detalhes de implementação dessa interação remota: do ponto de vista do código, a chamada se assemelha a chamadas de procedimentos locais.
 
 ### [RKE](https://rancher.com/docs/rke/latest/en/)
 
