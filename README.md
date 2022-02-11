@@ -108,6 +108,10 @@ GCP é o acrônimo para Google Cloud Platform, é o provedor de Infraestrutura d
 
 ## H
 
+### [HashiCorp](https://www.hashicorp.com/)
+
+HashiCorp é uma empresa de software, fornecedora de ferramentas de [Código Aberto](#c%C3%B3digo-abertohttpsptwikipediaorgwikicc3b3digoaberto) e produtos comerciais. Algumas dessas ferramentas são: [Terraform](#terraformhttpswwwterraformiointroindexhtml),[Consul](#consulhttpswwwconsulio),[Packer](#packerhttpswwwpackeriodocs), [Nomad](#nomadhttpswwwhashicorpcomproductsnomad), [Vault](#vaulthttpswwwhashicorpcomproductsvault), [Waypoint](#waypointhttpswwwwaypointprojectio). Essas ferramentas possibilitam com que desenvolvedores, profissionais de segurança e de infraestrutura provisionem, protejam, executem, e conectem infraestruturas de computação em nuvem.
+
 ### [Helm](https://helm.sh/)
 
 Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distribuição de aplicações conteinerizadas voltadas para o [Kubernetes](###Kubernetes). O Helm é responsável por empacotar os recursos e manifestos do Kubernetes na forma de um Chart, controlando versões de recursos e simplificando a aplicação destes em clusteres Kubernetes.
@@ -156,6 +160,10 @@ LGTM é o acrônimo para "*Looks good to me*" (em tradução livre: *está bom p
 
 ## N
 
+### [Nomad](https://www.hashicorp.com/products/nomad)
+
+O Nomad é um agendador de tarefas flexivel e um orquestrador de carga de trabalho, que possibilita com que uma organização implante e gerencie facilmente um aplicativo em [Container](#containerhttpscomputerworldcombrplataformasna-era-da-conteinerizacao-afinal-alguem-sabe-o-que-e-container) ou então legado.
+
 ## O
 
 ### [OCI](https://opencontainers.org/)
@@ -202,9 +210,19 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 
 ## V
 
+### [Vault](https://www.hashicorp.com/products/vault)
+
+O Vault é um sistema de gerenciamento de criptografia e segredos baseados em identidade. Segredo, para o Vault, é tudo aquilo que você deseja guardar de forma segura ou controlar rigidamente o acesso. Alguns exemplos são: Chaves de [API](#apihttpswwwdigitaloceancomcommunitytutorialsdigitalocean-community-glossary), senhas e certificados. Com ele é possivel centralizar os segredos, realizar a auditoria de quem acessou o segredo em determinado periodo de tempo, tendo assim, uma maior segurança, em um ambiente rigidamente controlado e auditável.
+
 ### [Volume](https://blog.container-solutions.com/understanding-volumes-docker)
 
 Volumes são diretórios (ou arquivos) existentes fora do Union File System (UFS) padrão e existem como diretórios e arquivos normais no sistema de arquivos do hospedeiro (host).
+
+## W
+
+### [Waypoint](https://www.waypointproject.io/)
+
+Waypoint é uma ferramenta que permite publicar qualquer aplicativo em qualquer plataforma com um único arquivo e um único comando. É mais uma das ferramentas desenvolvidas pela [HashiCorp](#hashicorphttpswwwhashicorpcom), como forma de possibilitar com que os desenvolvedores apenas foquem no desenvolvimento de aplicativos Web.
 
 ## X
 
