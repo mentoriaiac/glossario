@@ -18,7 +18,7 @@ Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automaçã
 
 ### [API](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
 
-Uma interface de programação de aplicativo (API) é um conjunto de rotinas, definições e protocolos que permitem aos desenvolvedores construir softwares aplicativos. As APIs abstraem a implementação e expõem apenas os objetos e ações necessários ao desenvolvedor. Na computação em nuvem, os desenvolvedores usam APIs para gerenciar servidores e outros recursos por meio de solicitações HTTP convencionais. 
+Uma interface de programação de aplicativo (API) é um conjunto de rotinas, definições e protocolos que permitem aos desenvolvedores construir softwares aplicativos. As APIs abstraem a implementação e expõem apenas os objetos e ações necessários ao desenvolvedor. Na computação em nuvem, os desenvolvedores usam APIs para gerenciar servidores e outros recursos por meio de solicitações HTTP convencionais.
 
 ### [AWS](https://aws.amazon.com/pt/)
 
@@ -32,13 +32,13 @@ Azure, ou Microsoft Azure, é o provedor de serviços na nuvem da Microsoft
 
 ### [Block Storage](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
 
-Um serviço de armazenamento em bloco ou block storage funciona como um disco rígido fornecido pela rede. Os desenvolvedores podem usar serviços de armazenamento em bloco para armazenar arquivos, combinar vários dispositivos em uma matriz RAID ou configurar um banco de dados para gravar diretamente no dispositivo. 
+Um serviço de armazenamento em bloco ou block storage funciona como um disco rígido fornecido pela rede. Os desenvolvedores podem usar serviços de armazenamento em bloco para armazenar arquivos, combinar vários dispositivos em uma matriz RAID ou configurar um banco de dados para gravar diretamente no dispositivo.
 
 ## C
 
 ### [CI/CD](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
 
-CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações. 
+CI/CD, continuous integration/continuous delivery, é um método para entregar aplicações com frequência aos clientes. Para isso, é aplicada a automação nas etapas do desenvolvimento de aplicações.
 
 ### [CI](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
 
@@ -67,7 +67,7 @@ Copy-on-Write ou Cópia em gravação é uma técnica de gestão de recursos usa
 
 ### [cri-o](https://cri-o.io/)
 
-cri-o é um ambiente de execução de containers usando os padrões da [OCI](###OCI). É uma alternativa de implementação de interface de execução de containers para o [Kubernetes](###Kubernetes). 
+cri-o é um ambiente de execução de containers usando os padrões da [OCI](###OCI). É uma alternativa de implementação de interface de execução de containers para o [Kubernetes](###Kubernetes).
 
 ### [Código Aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)
 
@@ -100,13 +100,17 @@ GitHub é uma plataforma de hospedagem de código-fonte que utiliza o Git como s
 
 ### [GitLab](https://gitlab.com)
 
-Similarmente ao GitHub, o GitLab é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos. 
+Similarmente ao GitHub, o GitLab é uma plataforma de hospedagem de código-fonte que utiliza o Git como sistema de controle de versão distribuído. Ela permite que os desenvolvedores contribuam em projetos privados ou abertos.
 
 ### [GCP](https://cloud.google.com/docs?hl=pt-br)
 
 GCP é o acrônimo para Google Cloud Platform, é o provedor de Infraestrutura da Google
 
 ## H
+
+### [HashiCorp](https://www.hashicorp.com/)
+
+HashiCorp é uma empresa de software, fornecedora de ferramentas de [Código Aberto](#código-aberto) e produtos comerciais. Algumas dessas ferramentas são: [Terraform](#terraform), [Consul](#consul), [Packer](#packer), [Nomad](#nomad), [Vault](#vault) e [Waypoint](#waypoint). Essas ferramentas possibilitam que desenvolvedores, profissionais de segurança e de infraestrutura provisionem, protejam, executem, e conectem infraestruturas de computação em nuvem.
 
 ### [Helm](https://helm.sh/)
 
@@ -156,6 +160,10 @@ LGTM é o acrônimo para "*Looks good to me*" (em tradução livre: *está bom p
 
 ## N
 
+### [Nomad](https://www.hashicorp.com/products/nomad)
+
+O Nomad é um agendador de tarefas flexivel e um orquestrador de carga de trabalho, que possibilita com que uma organização implante e gerencie facilmente um aplicativos em [Container](#container), Java, VMs ou legados.
+
 ## O
 
 ### [OCI](https://opencontainers.org/)
@@ -202,9 +210,19 @@ Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada par
 
 ## V
 
+### [Vault](https://www.hashicorp.com/products/vault)
+
+O Vault é um sistema de gerenciamento de criptografia e segredos baseados em identidade. Segredo, para o Vault, é tudo aquilo que você deseja guardar de forma segura ou controlar rigidamente o acesso. Alguns exemplos são: Chaves de [API](#api), senhas e certificados. Com ele é possivel centralizar os segredos, realizar a auditoria de quem acessou o segredo em determinado periodo de tempo, tendo assim, uma maior segurança, em um ambiente rigidamente controlado e auditável.
+
 ### [Volume](https://blog.container-solutions.com/understanding-volumes-docker)
 
 Volumes são diretórios (ou arquivos) existentes fora do Union File System (UFS) padrão e existem como diretórios e arquivos normais no sistema de arquivos do hospedeiro (host).
+
+## W
+
+### [Waypoint](https://www.waypointproject.io/)
+
+Waypoint é uma ferramenta que permite publicar qualquer aplicativo em qualquer plataforma com um único arquivo e um único comando. É mais uma das ferramentas desenvolvidas pela [HashiCorp](#hashicorp), como forma de possibilitar com que os desenvolvedores apenas foquem no desenvolvimento de aplicativos Web.
 
 ## X
 
