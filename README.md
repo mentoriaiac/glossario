@@ -14,7 +14,7 @@ Este projeto se destina a ter um glossário das principais palavras para auxilia
 
 ### [Ansible](https://docs.ansible.com/)
 
-Ansible é uma ferramenta de [Código Aberto](###Código-Aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
+Ansible é uma ferramenta de [Código Aberto](#código-aberto) para automação de TI que automatiza o provisionamento em nuvem, o gerenciamento de configurações, a implantação de aplicativos e a orquestração intra-serviços.
 
 ### [API](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary)
 
@@ -67,7 +67,7 @@ Copy-on-Write ou Cópia em gravação é uma técnica de gestão de recursos usa
 
 ### [cri-o](https://cri-o.io/)
 
-cri-o é um ambiente de execução de containers usando os padrões da [OCI](###OCI). É uma alternativa de implementação de interface de execução de containers para o [Kubernetes](###Kubernetes).
+cri-o é um ambiente de execução de containers usando os padrões da [OCI](#oci). É uma alternativa de implementação de interface de execução de containers para o [Kubernetes](#kubernetes).
 
 ### [Código Aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto)
 
@@ -114,7 +114,7 @@ HashiCorp é uma empresa de software, fornecedora de ferramentas de [Código Abe
 
 ### [Helm](https://helm.sh/)
 
-Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distribuição de aplicações conteinerizadas voltadas para o [Kubernetes](###Kubernetes). O Helm é responsável por empacotar os recursos e manifestos do Kubernetes na forma de um Chart, controlando versões de recursos e simplificando a aplicação destes em clusteres Kubernetes.
+Helm é análogo a um gerenciador de pacotes e visa tornar mais fácil a distribuição de aplicações conteinerizadas voltadas para o [Kubernetes](#kubernetes). O Helm é responsável por empacotar os recursos e manifestos do Kubernetes na forma de um Chart, controlando versões de recursos e simplificando a aplicação destes em clusteres Kubernetes.
 
 ## I
 
@@ -174,7 +174,7 @@ OCI é o acrônimo para Open Container Initiave. É uma estrutura de governança
 
 ### [Packer](https://www.packer.io/docs)
 
-Packer é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a [Infraestrutura Imutavel](###Infraestrutura-Imutavel)
+Packer é uma ferramenta de [Código Aberto](#código-aberto) utilizada para construir imagens no provedor de cloud. Ela é uma das referencias para a Infraestrutura Imutavel.
 
 ### [Pipeline](https://www.redhat.com/pt-br/topics/devops/what-cicd-pipeline)
 
@@ -204,7 +204,7 @@ Ele seria algo semelhante ao [KOPS](https://kops.sigs.k8s.io/)
 
 ### [Terraform](https://www.terraform.io/intro/index.html)
 
-Terraform é uma ferramenta de [Código Aberto](###Código-Aberto) utilizada para construir, modificar e versionar infraestrutura de forma segura e eficiente. Ela é uma das referencias para a Infraestrutura como Código ou [IaC](###IaC)
+Terraform é uma ferramenta de [Código Aberto](#código-aberto) utilizada para construir, modificar e versionar infraestrutura de forma segura e eficiente. Ela é uma das referencias para a Infraestrutura como Código ou [IaC](#iac)
 
 ## U
 
