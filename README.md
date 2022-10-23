@@ -198,6 +198,11 @@ Chamada remota de procedimento (RPC, acrônimo de Remote Procedure Call) é uma 
 
 RKE é uma distribuição Kubernetes (binário) com certificação CNCF que resolve complexidades de instalação comuns do Kubernetes, removendo a maioria das dependências de host, apresentando um caminho estável para implantação, atualizações e reversões.
 Ele seria algo semelhante ao [KOPS](https://kops.sigs.k8s.io/)
+
+### [REFACTORING](https://pt.wikipedia.org/wiki/Refatora%C3%A7%C3%A3o)
+
+REFACTORING é o processo de modificar um sistema de software para melhorar a estrutura interna do código sem alterar seu comportamento externo. O uso desta técnica aprimora a concepção de um software e evita a deterioração tão comum durante o ciclo de vida de um código
+
 ## S
 
 ## T
