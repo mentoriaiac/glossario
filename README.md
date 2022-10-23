@@ -190,6 +190,10 @@ Pull requests são alterações propostas em um repositório enviadas por um usu
 
 ## R
 
+### [REFACTORING](https://pt.wikipedia.org/wiki/Refatora%C3%A7%C3%A3o)
+
+REFACTORING é o processo de modificar um sistema de software para melhorar a estrutura interna do código sem alterar seu comportamento externo. O uso desta técnica aprimora a concepção de um software e evita a deterioração tão comum durante o ciclo de vida de um código.
+
 ### [RPC](https://pt.wikipedia.org/wiki/Chamada_de_procedimento_remoto)
 
 Chamada remota de procedimento (RPC, acrônimo de Remote Procedure Call) é uma tecnologia de comunicação entre processos que permite a um programa de computador chamar um procedimento em outro espaço de endereçamento (geralmente em outro computador, conectado por uma rede). O programador não se preocupa com detalhes de implementação dessa interação remota: do ponto de vista do código, a chamada se assemelha a chamadas de procedimentos locais.
