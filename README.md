@@ -188,6 +188,10 @@ Pull requests são alterações propostas em um repositório enviadas por um usu
 
 ## Q
 
+### [Queries](https://en.wikipedia.org/wiki/Web_query)
+
+Pedido de informação e/ou dados para banco de dados.
+
 ## R
 
 ### [REFACTORING](https://pt.wikipedia.org/wiki/Refatora%C3%A7%C3%A3o)
