@@ -182,6 +182,10 @@ Um pipeline de CI/CD consiste em uma série de etapas a serem realizadas para a 
 
 O pipeline de CI/CD inclui monitoramento e automação para melhorar o processo de desenvolvimento de aplicações principalmente nos estágios de integração e teste, mas também na entrega e na implantação. É possível executar manualmente cada etapa do pipeline de CI/CD, mas o real valor dele está na automação.
 
+### [Plugin](https://pt.wikipedia.org/wiki/Plug-in)
+
+Uma extensão de código que pode ser adicionada a um código em que você está trabalhando. O plugin é uma extensão intrínseca ao contexto, por exemplo um plugin de um navegador: Ele não funcionará em outro navegador. Além disso, ele funciona consumindo código ou APIs da aplicação principal.
+
 ### [Pull Request](https://docs.github.com/pt/get-started/quickstart/github-glossary#pull-request)
 
 Pull requests são alterações propostas em um repositório enviadas por um usuário e que são aceitas ou rejeitadas pelos colaboradores do repositório. Assim como os problemas, as pull requests têm um fórum próprio de discussão.
