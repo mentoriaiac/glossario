@@ -188,9 +188,9 @@ Pull requests são alterações propostas em um repositório enviadas por um usu
 
 ## Q
 
-### [Queries](https://en.wikipedia.org/wiki/Web_query)
+### [Queries](https://pt.wikipedia.org/wiki/Recupera%C3%A7%C3%A3o_de_informa%C3%A7%C3%A3o)
 
-Pedido de informação e/ou dados para banco de dados.
+QUERIES é uma área da computação que lida com o armazenamento de documentos e a recuperação automática de informação associada a eles. É uma ciência de pesquisa sobre busca por informações em documentos, busca pelos documentos propriamente ditos, busca por metadados que descrevam documentos e busca em banco de dados, sejam eles relacionais e isolados ou banco de dados interligados em rede de hipermídia, tais como a World Wide Web. A mídia pode estar disponível sob forma de textos, de sons, de imagens ou de dados. Há, entretanto, muita confusão entre os termos e conceitos "recuperação de dados", "recuperação de documentos", "recuperação de informações" e "recuperação de textos". Na verdade, cada um destes é uma área especial que possui seu próprio corpo de conhecimento e literatura, teoria, praxis e tecnologias.
 
 ## R
 
